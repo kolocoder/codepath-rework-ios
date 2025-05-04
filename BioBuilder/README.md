@@ -5,14 +5,13 @@ Submitted by: **Samuel Chibuoyim Uche**
 
 <div>
     <a href="https://www.loom.com/share/f6e4cc08defd49ebb061308db54cdf75">
-      <p>Loom | Free Screen & Video Recording Software - 4 May 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f6e4cc08defd49ebb061308db54cdf75">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6e4cc08defd49ebb061308db54cdf75-f1480e4a5359e3c5-full-play.gif">
     </a>
   </div>
 
-**BioBuilder** is an app that shows the name of the user, their college and current employment. It also has the ability to change the user's background color through a button. Extra features like a drop-dwon button, extra clear and svae buttons were added to the app'
+**BioBuilder** is an app that shows the name of the user, their college and current employment. It also has the ability to change the user's background color through a button. Extra features like a drop-dwon button, extra 'clear' and 'save' buttons were added to the app'
 
 Time spent: **2** hours spent in total
 
@@ -31,7 +30,7 @@ The following **required** functionality is completed:
 
 Describe any challenges encountered while building the app.
 
-There were no challenges in building the app for the required features. I had wanted to more functionalities for the BioBuilder App, but couldn't achieve them because they are advanced features. Hopefully, when I start the class, I would be able to learn how to integrate those features.
+There were no challenges in building the app for the required features. I had wanted to add more functionalities for the BioBuilder App, but couldn't achieve them because they are advanced features. Hopefully, when I start the class, I would be able to learn how to integrate those features.
 
 ## License
 
